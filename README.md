@@ -115,7 +115,7 @@ $
  man ./man_1_simple_shell
 ```
 ### Contributors
-|Names                | Emails                 |
-|---------------------|------------------------|
-|Yohannes Kanko       |johanneskanko7@gmail.com|
-| Dotun Balogun       |adedotun_balogun@yahoo.com|
+|Names                | Emails                  |
+|---------------------|------------------------ |
+|Yohannes Kanko       |johanneskanko7@gmail.com |
+|Dotun Balogun        |adedotun_balogun@yahoo.com |
