@@ -33,7 +33,7 @@ $ echo "kanneh" | ./././hsh
 $
 ```
 ## List of functions and system calls we used
-```Bash 
+```Bash
 - access (man 2 access)
 - chdir (man 2 chdir)
 - close (man 2 close)
